@@ -1,0 +1,16 @@
+{
+  "name": "websitedemo",
+  "version": "1.0.0",
+  "description": "demo for site",
+  "main": "script.js",
+  "scripts": {
+    "start:": "live-server --port=5500"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "datatables.net": "^1.12.1",
+    "datatables.net-dt": "^1.12.1",
+    "jquery": "^3.6.0"
+  }
+}
